@@ -1,0 +1,41 @@
+Zone,Year,Disease,Number of Cases,"Rate per 100,000 population"
+Central,2017,Lyme Disease - Confirmed,47,10.4
+Western,2017,Lyme Disease - Confirmed,223,114.5
+Nova Scotia,2017,Lyme Disease - Confirmed,307,32.2
+Eastern,2017,Lyme Disease - Confirmed,3,1.9
+Northern,2017,Lyme Disease - Confirmed,34,22.8
+Northern,2016,Lyme Disease - Confirmed,12,8.1
+Western,2016,Lyme Disease - Confirmed,131,66.9
+Nova Scotia,2015,Lyme Disease - Confirmed,124,13.1
+Nova Scotia,2016,Lyme Disease - Confirmed,165,17.4
+Eastern,2015,Lyme Disease - Confirmed,1,0.6
+Eastern,2016,Lyme Disease - Confirmed,0,0
+Central,2015,Lyme Disease - Confirmed,16,3.2
+Western,2015,Lyme Disease - Confirmed,103,52.6
+Central,2016,Lyme Disease - Confirmed,22,4.9
+Western,2014,Lyme Disease - Confirmed,51,25.9
+Northern,2014,Lyme Disease - Confirmed,2,1.3
+Eastern,2014,Lyme Disease - Confirmed,2,1.2
+Central,2014,Lyme Disease - Confirmed,13,3.1
+Nova Scotia,2014,Lyme Disease - Confirmed,68,7.2
+Northern,2015,Lyme Disease - Confirmed,4,2.7
+Northern,2017,Lyme Disease - Probable,7,4.7
+Western,2017,Lyme Disease - Probable,248,127.3
+Nova Scotia,2017,Lyme Disease - Probable,279,29.2
+Central,2017,Lyme Disease - Probable,23,5.1
+Eastern,2017,Lyme Disease - Probable,1,0.6
+Nova Scotia,2015,Lyme Disease - Probable,130,13.8
+Central,2015,Lyme Disease - Probable,18,4.1
+Eastern,2016,Lyme Disease - Probable,0,0
+Nova Scotia,2016,Lyme Disease - Probable,161,17
+Western,2016,Lyme Disease - Probable,142,72.5
+Western,2015,Lyme Disease - Probable,106,54.2
+Central,2016,Lyme Disease - Probable,13,2.9
+Northern,2016,Lyme Disease - Probable,6,4.1
+Western,2014,Lyme Disease - Probable,41,20.8
+Northern,2014,Lyme Disease - Probable,1,0.6
+Eastern,2014,Lyme Disease - Probable,0,0
+Central,2014,Lyme Disease - Probable,5,1.2
+Nova Scotia,2014,Lyme Disease - Probable,47,5
+Northern,2015,Lyme Disease - Probable,6,4
+Eastern,2015,Lyme Disease - Probable,0,0
